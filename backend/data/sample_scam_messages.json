@@ -1,0 +1,42 @@
+[
+  {
+    "text": "URGENT: Your HDFC bank account 49102XX has been temporarily locked due to suspicious activity. Click http://hdfc-bank-verify-login.tk/security to update your KYC immediately or your account will be permanently closed. Do not share your OTP 892014 with anyone.",
+    "category": "Banking Impersonation & OTP Theft",
+    "label": 1
+  },
+  {
+    "text": "Congratulations! You have won $500,000 in the International Email Lottery 2026. Claim your prize now by sending a processing fee of $150 via UPI to claim-reward@okicici. Contact agent at lucky-draw-bonus@mail.ru",
+    "category": "Lottery & Advance Fee Scam",
+    "label": 1
+  },
+  {
+    "text": "Dear user, Amazon India offer! You are selected for work from home job earning Rs 50,000 per month. No experience needed. Pay registration fee of Rs 999 to start working today at http://amazn-jobs-recruitment.top",
+    "category": "Fake Job Offer Scam",
+    "label": 1
+  },
+  {
+    "text": "ALERT: Your FedEx package #FX-920184 delivery was failed due to unpaid customs fee of $2.50. Update delivery address and pay fee within 12 hours at http://fedex-tracking-parcel-update.com/pay",
+    "category": "Delivery Fee Phishing",
+    "label": 1
+  },
+  {
+    "text": "Hi Team, Please find attached the monthly security audit schedule for Q4. Review the timeline and let me know if you have any questions regarding your team's slot.",
+    "category": "Benign Work Email",
+    "label": 0
+  },
+  {
+    "text": "Hey Tharun, remember to push the latest git commits for the project presentation tomorrow morning. See you at the office.",
+    "category": "Benign Personal Message",
+    "label": 0
+  },
+  {
+    "text": "IMPORTANT: Your Microsoft 365 password expires in 1 hour. Keep your current password by verifying your credentials at http://login-microsoft365-verify-account.com",
+    "category": "Account Verification Phishing",
+    "label": 1
+  },
+  {
+    "text": "Invest $100 today and get guaranteed $5,000 return in 24 hours with our AI Automated Crypto Trading bot! Sign up now at http://crypto-wealth-multiplier.xyz",
+    "category": "Investment & Crypto Scam",
+    "label": 1
+  }
+]

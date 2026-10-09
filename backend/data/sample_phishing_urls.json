@@ -1,0 +1,42 @@
+[
+  {
+    "url": "http://paypaI-security-update.com.account-verify-login.tk/signin?session=9201948",
+    "category": "Typosquatting Phishing",
+    "label": 1
+  },
+  {
+    "url": "http://192.168.1.105:8080/g00gle-account-verification/login.php",
+    "category": "IP Host Phishing",
+    "label": 1
+  },
+  {
+    "url": "https://bit.ly/3x89KqL?redirect=http%3A%2F%2Fmalicious-credential-harvester.xyz",
+    "category": "URL Shortener Phishing",
+    "label": 1
+  },
+  {
+    "url": "http://xn--80ak6aa92e.com/admin/login.html",
+    "category": "Punycode IDN Homograph",
+    "label": 1
+  },
+  {
+    "url": "https://github.com/torvalds/linux",
+    "category": "Legitimate Site",
+    "label": 0
+  },
+  {
+    "url": "https://accounts.google.com/ServiceLogin?hl=en",
+    "category": "Legitimate Site",
+    "label": 0
+  },
+  {
+    "url": "http://amazn-prime-reward-bonus-claim.top/free-iphone15/claim.php?user=id89201",
+    "category": "Brand Impersonation Phishing",
+    "label": 1
+  },
+  {
+    "url": "https://stackoverflow.com/questions/ask",
+    "category": "Legitimate Site",
+    "label": 0
+  }
+]
